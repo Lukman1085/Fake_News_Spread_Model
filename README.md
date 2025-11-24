@@ -2,6 +2,8 @@
 
 Proyek ini adalah simulasi **Agent-Based Modelling (ABM)** untuk memodelkan bagaimana misinformasi (berita palsu) dan koreksinya menyebar di dalam jejaring sosial. Model ini dibangun menggunakan Python dan library **Mesa**.
 
+link github: https://github.com/Lukman1085/Fake_News_Spread_Model
+
 Proyek ini terinspirasi oleh paper: *"Can We Stop Fake News? Using Agent-Based Modelling to Evaluate Countermeasures for Misinformation on Social Media"*.
 
 link paper: https://workshop-proceedings.icwsm.org/pdf/2021_63.pdf

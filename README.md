@@ -38,7 +38,7 @@ Setiap agen memiliki atribut probabilitas yang unik (ditetapkan di awal via CSV)
 * **`agent.py`**: Mendefinisikan class `PenggunaMediaSosial`. Berisi logika perilaku agen (`spread_fake_news`, `against_fake_news`).
 * **`model.py`**: Mendefinisikan class `FakeNewsModel`. Mengatur lingkungan jaringan, memuat data dari CSV, dan penjadwalan.
 * **`app.py`**: Script utama untuk menjalankan simulasi, mengumpulkan data, dan memvisualisasikan hasil (grafik).
-* **`generate_data.py`**: Script utilitas untuk membuat data populasi (`data_pengguna.csv`) dan topologi jaringan (`hubungan.csv`) secara otomatis.
+* **`generate.py`**: Script utilitas untuk membuat data populasi (`data_pengguna.csv`) dan topologi jaringan (`hubungan.csv`) secara otomatis.
 
 # Persiapan Menjalankan Model
 
